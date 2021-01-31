@@ -40,4 +40,5 @@
 
   "You may use a default method when no others match"
   (= "I don't know what Rich Hickey eats."
-     (diet {:name "Rich Hickey"})))
+     (diet {:name "Rich Hickey"}))
+  )
